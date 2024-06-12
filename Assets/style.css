@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+   
+      
+    
+}
+.hero{
+    height: 100vh;
+    width: 100%;
+    background-image: url();
+}
+nav{
+    display: flex;
+    background-color: black;
+    align-items: center;
+    padding: 10px 15px;
+    font-family: 'Ubuntu', sans-serif;
+   
+}  
+.logo img{
+    width: 160px;
+    margin-left: 5rem;
+}
+nav ul li {
+    list-style: none;
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 18px;
+  
+    
+    
+}
+nav ul li a{
+    color: #fff;
+    text-decoration: none;
+}
+nav button a{
+    color: #fff;
+    text-decoration: none;
+    /* background-color: black; */
+
+}
+button{
+    padding: 10px 13px;
+    border-radius: 30px;
+}
+.btn-2{
+    background-color:rgb(237,28,36);
+}
+nav button{
+    margin: 0px 10px;
+}
+.list{
+    margin-left: 200px;
+}
+.btn-1 {
+    background-color: black;
+   border: 1px solid white;
+   padding: 20px;
+}
+.btn-2{
+    
+    background-color: #da1010;
+    border-radius: 100px;
+    padding: 15px;
+    
+    
+}
+.btn-2 i{
+    background-color: #fff;
+    border-radius: 40px;
+    padding:8px 10px;
+    color: #da1010;
+}
